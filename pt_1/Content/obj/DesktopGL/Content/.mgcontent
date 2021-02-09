@@ -4,7 +4,7 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>/media/pup/Storage/tests/2021-02-07_MonoGame_Study/pt_1/Content/box.png</File>
+    <File>/media/pup/Storage/assets/projects/2021-02-07_MonoGame_Study/pt_1/Content/box.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

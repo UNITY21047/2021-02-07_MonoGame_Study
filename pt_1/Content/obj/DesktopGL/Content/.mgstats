@@ -1,2 +1,2 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"/media/pup/Storage/tests/2021-02-07_MonoGame_Study/pt_1/Content/box.png","/media/pup/Storage/tests/2021-02-07_MonoGame_Study/pt_1/Content/bin/DesktopGL/Content/box.xnb","TextureProcessor","Texture2DContent",375,40085,0.2232824
+"/media/pup/Storage/assets/projects/2021-02-07_MonoGame_Study/pt_1/Content/box.png","/media/pup/Storage/assets/projects/2021-02-07_MonoGame_Study/pt_1/Content/bin/DesktopGL/Content/box.xnb","TextureProcessor","Texture2DContent",375,40085,0.2469016
